@@ -197,4 +197,4 @@ Predictive analytics for academic risk assessment
 **Name:** Your Name
 **Course:** DBMS – Semester 3
 **Project: **Integrated Academic Insights Portal (IAIP)
-**Repository:** https://github.com/Aarush720/IAIP-DBMS-SEM3
+**Repository:** https://github.com/Aarush720/IAIP
